@@ -7,4 +7,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-# Metas
+# Metas  
+Metafor is meta-awesome.  
+Calculating effect sizes is a good first step.    
+https://www.rdocumentation.org/packages/metafor/versions/3.0-2/topics/escalc
+
+
+escalc measurement argument
+
+"MD" for the raw mean difference (e.g., Borenstein, 2009),
+
+"SMD" for the standardized mean difference (Hedges, 1981),
+
+"SMDH" for the standardized mean difference with heteroscedastic population variances in the two groups (Bonett, 2008, 2009),
+
+"ROM" for the log transformed ratio of means (Hedges et al., 1999; Lajeunesse, 2011)
+
+### Challenge 1. Restoration outcomes and species richness  
+https://knb.ecoinformatics.org/view/doi%3A10.5063%2F057DCQ  
+
